@@ -1,0 +1,36 @@
+# macOS / Windows metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node/dependency caches
+node_modules/
+.npm/
+.pnpm-store/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Office temporary lock files
+~$*
+
+# Local editor and tooling state
+.idea/
+.vscode/

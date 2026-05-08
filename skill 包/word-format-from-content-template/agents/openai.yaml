@@ -1,0 +1,7 @@
+interface:
+  display_name: "提供内容与模板，按规范排版 Word 文件"
+  short_description: "按规范和模板排版 Word，保持原稿内容不改写"
+  default_prompt: "Use $word-format-from-content-template to format my draft into the provided Word template according to the formatting specification."
+
+policy:
+  allow_implicit_invocation: true
