@@ -9,6 +9,7 @@
 核心目标很明确：用户提供原稿内容、格式规范和 Word 模板后，Codex 使用本 skill 将原稿内容排入模板，并按规范处理字体、段落、页边距、页眉页脚、页码、目录、表格、题注、分页等排版事项。除非用户明确要求改文案，否则不润色、不扩写、不删改、不翻译原稿内容。
 
 对了，其实你可以直接把仓库链接给 codex，让它自己安装。
+安装完成后，先别着急开始使用，你可以说“我想使用这个 skill，我需要准备哪些文件给你？”
 ## Skill 信息
 
 - Skill 名称：`word-format-from-content-template`
@@ -219,6 +220,7 @@ This is a Codex skill for formatting Word documents from user-provided content, 
 The core goal is simple: the user provides a draft, a formatting specification, and ideally a Word template; Codex uses this skill to place the draft into the template and apply the required formatting. Unless the user explicitly requests content editing, Codex must not polish, expand, summarize, delete, translate, or rewrite the draft.
 
 By the way, actually you can directly give the repository link to Codex and let it install by itself.
+After the installation is completed, don't rush to start using it yet. You can say, "I want to use this skill. What files do I need to prepare for you?"
 ## Skill Information
 
 - Skill name: `word-format-from-content-template`
